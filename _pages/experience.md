@@ -26,20 +26,3 @@ author_profile: true
         * Implemented and tested the interfaces of the fundamental electronic devices such as a gaussmeter, an analog filter, and a DC power supply in **MATLAB** for the company’s future research. Led to a [publication in Medical Physics.](https://doi.org/10.1002/mp.15509)
 
 
-
-Honors & Awards & Certificates
-======
-
-* Invited Talks
-    * IEEE Signal Processing Society Blog, *2024*
-    * IEEE International Conference on Image Processing, *2023*
-* Graduation Awards at Bilkent University, *2023*
-    * Research Excellence Award
-    * Social Awareness and Activities Award
-    * Entrepreneurship Award
-    * Voluntary Professional Activities Award
-* High Honor Student & Tuition Scholarship at Bilkent University, *2018 - 2023*
-* Ranked as 1914 out of 2.5 million students in university entrance exam, *2018*
-* High Honor student in class of 2018, Mehmet Emin Resulzade High School, *2014 - 2017*
-
-
