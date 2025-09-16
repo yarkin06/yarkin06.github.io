@@ -11,7 +11,7 @@ Research Projects
 * **Communication-aware neural Mapping and Pruning Framework**, *2025*
     * Performed efficient distributed inference over communication-aware mapped and pruned **CNNs** using **PyTorch**. Tested on real-life environments such as **Colosseum** wireless emulator in wired, wireless, and cellular scenarios, and **Raspberry Pi's**. Observed up to a **26x** speedup over pruned models.
 * **Markovian Experimental Design under Concept Drift**, *2025*
-    * Implemented a markovian experimental design framework under concept model drift scenarios via **Kalman filters** in **Python**.
+    * Implemented a markovian experimental design framework under concept model drift via **Kalman filters** in **Python**.
 * **Gradient Boosting Decision Trees on Medical Diagnosis**, *2024*, [View Publication](https://arxiv.org/abs/2410.03705)
     * Implemented an extensive analysis of **ensemble models** in medical diagnosis focusing on the superior performance over state-of-the-art deep learning models in **PyTorch**.
 * **Wireless Radar Classification with Transformers**, *2024*, [View Preprint](https://arxiv.org/abs/2401.04837)
