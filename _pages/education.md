@@ -7,7 +7,7 @@ author_profile: true
 
 
 * **Northeastern University**, Boston, MA, USA, *2028 (expected)*
-    * Ph.D in Computer Engineering
+    * Ph.D in Computer Engineering, CGPA: 3.84/4.00
         * Courses: Verifiable Machine Learning, Advanced Computer Vision
 * **Northeastern University**, Boston, MA, USA, 2025
     * MSc in Electrical and Computer Engineering, CGPA: 3.84/4.00
