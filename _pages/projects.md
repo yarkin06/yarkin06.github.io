@@ -8,6 +8,8 @@ author_profile: true
 
 Research Projects
 ======
+* **Multi-Agent Distributed Inference over Large AI Models at the Network Edge**, *2025*
+    * Developed a **compression-driven Model-Distributed Inference (MDI)** framework for executing **large AI models** across heterogeneous **edge devices**, leveraging lightweight **pruning** and **quantization** to reduce communication overhead under **wireless constraints**, validated on **Raspberry Pi** and **NVIDIA Jetson Nano** testbeds.
 * **Communication-aware neural Mapping and Pruning Framework**, *2025*
     * Performed efficient distributed inference over communication-aware mapped and pruned **CNNs** using **PyTorch**. Tested on real-life environments such as **Colosseum** wireless emulator in wired, wireless, and cellular scenarios, and **Raspberry Pi's**. Observed up to a **26x** speedup over pruned models.
 * **Markovian Experimental Design under Concept Drift**, *2025*
