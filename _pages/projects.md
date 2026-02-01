@@ -9,22 +9,21 @@ author_profile: true
 Research Projects
 ======
 * **Multi-Agent Distributed Inference over Large AI Models at the Network Edge**, *2025*
-    * Developed a **compression-driven Model-Distributed Inference (MDI)** framework for executing **large AI models** across heterogeneous **edge devices**, leveraging lightweight **pruning** and **quantization** to reduce communication overhead under **wireless constraints**, validated on **Raspberry Pi** and **NVIDIA Jetson Nano** testbeds.
-* **Communication-aware neural Mapping and Pruning Framework**, *2025*
-    * Performed efficient distributed inference over communication-aware mapped and pruned **CNNs** using **PyTorch**. Tested on real-life environments such as **Colosseum** wireless emulator in wired, wireless, and cellular scenarios, and **Raspberry Pi's**. Observed up to a **26x** speedup over pruned models.
-* **Markovian Experimental Design under Concept Drift**, *2025*
-    * Implemented a markovian experimental design framework under concept model drift via **Kalman filters** in **Python**.
+    * Designed a compression-driven Model-Distributed Inference (MDI) framework to enable execution of large models across heterogeneous edge devices, reducing wireless communication overhead via lightweight pruning and quantization.
 * **Gradient Boosting Decision Trees on Medical Diagnosis**, *2024*, [View Publication](https://arxiv.org/abs/2410.03705)
-    * Implemented an extensive analysis of **ensemble models** in medical diagnosis focusing on the superior performance over state-of-the-art deep learning models in **PyTorch**.
+    * Conducted large-scale empirical analysis of ensemble models to evaluate performance trade-offs against deep learning methods on tabular medical data, showing consistent superiority of GBDTs across multiple benchmarks.
 * **Wireless Radar Classification with Transformers**, *2024*, [View Preprint](https://arxiv.org/abs/2401.04837)
-    * Implemented **Transformer**-based classification models for wireless radar signals over out-of-distribution data with **LoRA** and **conformal prediction** in **PyTorch**.
+    * Implemented Transformer-based radar signal classifiers with LoRA and conformal prediction to improve robustness under distribution shifts, achieving reliable OOD performance in PyTorch.
 * **Portable RF Signal Sensing System Using SDR**, *2023*, [View Publication](https://ieeexplore.ieee.org/abstract/document/10600750)
-    * Implemented an Electronic Support Measures (ESM) system with a **GPU** accelerated **SDR** that could detect, measure, and classify **RF** signals using signal processing algorithms in **GNU Radio** and **XGBoost**. Designed the system as compact and portable contrary to the current ESM products.
+    * Implemented a GPU-accelerated SDR-based Electronic Support Measures (ESM) system to address real-time RF signal awareness requirements, enabling efficient detection, measurement, and classification using GNU Radio and XGBoost.
 * **sEMG Motion Classification and Anomaly Detection**, *2023*, [View Preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22577374)
-    * Implemented motion classification and anomaly detection models using **sEMG** signals via few-shot learning with a **Siamese network** in **Keras** and **PyTorch**.
+    * Developed few-shot Siamese learning models to address limited-label sEMG motion classification, achieving robust generalization across unseen motion patterns.
 * **Multivariate Time Series Imputation With Transformers**, *2022*, [View Publication](https://ieeexplore.ieee.org/abstract/document/9964035)
-    * Developed a **Transformer**-based **autoencoder** for missing value imputation that outperformed seven state-of-the-art imputation methods by **13.5** -- **50.5%** over benchmark datasets.
-
+    * Designed a Transformer-based autoencoder to solve missing-value imputation in multivariate time series, outperforming seven state-of-the-art methods by 13.5–50.5\% over benchmark datasets.
+* **Nano-drone Project**, *2021*
+    * Designed and integrated nano-drone hardware and software using Altium Designer to address agility and visibility constraints in aerial platforms, resulting in a nano-scale PCB that improved maneuverability and reduced visual detectability.
+* **Drive Coil Project**, *2020*
+    * Designed a drive coil in MATLAB to enable magnetic-field–based particle analysis when paired with a receive coil, supporting accurate characterization via controlled electromagnetic excitation.
 
 
 <br>
@@ -33,22 +32,22 @@ Research Projects
 Course Projects
 ======
 * **Genetic Algorithms for Feature Selection**, *2023*, [View Preprint](https://arxiv.org/abs/2401.10846)
-    * Major contribution in parallelization of several genetic algorithms for feature selection to enable concurrent training of ML models on diverse feature subsets in **PySpark** and **JobLib**.
+    * Parallelized distributed genetic algorithms in PySpark and JobLib to accelerate feature subset exploration, enabling concurrent training of large-scale machine learning models.
 * **Deep Learning Course Project**, *2022*
-    * Designed a classification task using **ResNet** that detects defects on solar cells in **PyTorch**.
+    * Designed a ResNet-based image classification model to address automated defect detection in photovoltaic solar cells, demonstrating accurate visual inspection using PyTorch.
 * **Audio Amplifier with a Gain and Power Stage**, *2021*
-    * Designed an audio amplifier on **Printed Circuit Board** that amplifies the input signal and converts it to audio at the output power stage.
+    * Designed and implemented a PCB-based audio amplifier with gain and power stages to convert low-amplitude input signals into audible output, resulting in a functional end-to-end analog amplification system.
 * **Neural Networks Course Projects**, *2021*
-    * Implemented natural language processing and image captioning tasks using **CNNs** and **RNNs**, including **GRUs** and **LSTMs**, in **PyTorch**.
+    * Implemented CNN- and RNN-based models, including GRUs and LSTMs, to solve natural language processing and image captioning tasks, achieving effective sequence modeling and multimodal learning in PyTorch.
 * **Science, Technology and Society Project**, *2021*
-    * Investigated and reported the company of KAREL’s applications of **IoT** on transportation using **Responsible Research and Innovation** methods.
+    * Analyzed KAREL’s IoT applications in transportation systems to evaluate societal and ethical implications using Responsible Research and Innovation (RRI) frameworks, producing a structured technology impact assessment.
 * **Signals and Systems Course Projects**, *2021*
-    * Designed **Finite Impulse Response** and an **Infinite Impulse Response** filters in **MATLAB**.
+    * Designed and evaluated FIR and IIR digital filters in MATLAB to address frequency-domain signal processing requirements, validating filter performance through analytical and simulation-based methods.
 * **Measurement of DC Voltage Values and Identification of Different Waveforms**, *2020*
-    * Designed a system in **Assembly** that continuously measures the voltage values of a Direct Current Power Supply and identifies the input waveform type of an oscilloscope.
+    * Developed an Assembly-based embedded system to continuously measure DC voltage levels and classify oscilloscope waveforms, enabling real-time signal identification on constrained hardware.
 * **Calculator in Assembly**, *2020*
-    * Designed a mean absolute deviation calculator in **Assembly** and tested on **8051 Microcontroller**.
+    * Implemented a mean absolute deviation calculator in Assembly to perform statistical computation on embedded systems, successfully deploying and testing the solution on an 8051 microcontroller.
 * **TRC-10**, *2020*
-    * Built a high-frequency transmitter-receiver for audio files in a 10 meter amateur band.
+    * Built a high-frequency transmitter–receiver system to enable audio communication over the 10-meter amateur radio band, demonstrating reliable RF signal transmission and reception.
 * **Agar.io Game**, *2020*
-    * Implemented a **VHDL**-based video game similar to agar.io displayed on a **VGA** and controlled via a keyboard.
+    * Designed and implemented a VHDL-based video game inspired by Agar.io to integrate digital logic, VGA display output, and keyboard input, resulting in a fully interactive hardware-level game system.
