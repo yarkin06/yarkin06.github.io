@@ -7,7 +7,7 @@ author_profile: true
 
 
 * **Northeastern University**, Boston, MA, USA, *2028 (expected)*
-    * Graduate Research Assistant
+    * Research Assistant
         * Research Labs: DNAL, WIoT, SPIRAL
 * **Neurocess Limited**, London, England, *2023*
     * Data Science / Machine Learning Engineer (Remote)
