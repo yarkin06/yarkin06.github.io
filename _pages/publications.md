@@ -15,7 +15,7 @@ Conferences & Journals
 ======
 
 * **Communication-Aware Model Distributed Inference via Latent Representation Compression**
-  * Published in *ACM MobiHoc*, 2026
+  * To be appeared in *ACM MobiHoc*, 2026
   * Recommended citation: P. Gholami, T. T. Davarakis, T. Li, M. Sirera Perell´o, S. Reddy, A. Y. Yıldız, A. Arora, A. Eryilmaz, S. Ioannidis, C. Li, H. Seferoglu, and N. Shroff, “Communication-Aware Model Distributed Inference via Latent Representation Compression.” Proceedings of the Twenty-seventh International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing. 2026.
 
 * **T-PRIME: Real-time Deployment of a Transformer-based Protocol Identification for Machine-learning at the Edge** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11614897) [[Code]](https://github.com/genesys-neu/t-prime)
@@ -39,9 +39,8 @@ Conferences & Journals
 Preprints
 ======
 
-
 * **T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge** [[Paper]](https://arxiv.org/abs/2401.04837) [[Code]](https://github.com/genesys-neu/t-prime)
-  * Published in *arxiv*, 2024 (submitted to IEEE/ACM Transactions on Networking)
+  * Published in *arxiv*, 2024
   * Recommended citation: M. Belgiovine, J. Groen, M. Sirera, C. Tassie, A. Y. Yıldız, S. Trudeau, S. Ioannidis, and K. Chowdhury, "T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge." arXiv preprint arXiv:2401.04837 (2024). <a href="/files/tprime.bib">Download BibTeX</a>
 
 * **sEMG motion classification via few-shot learning with applications to sports science** [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22577374)
