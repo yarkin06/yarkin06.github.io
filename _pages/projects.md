@@ -8,11 +8,15 @@ author_profile: true
 
 Research Projects
 ======
-* **Multi-Agent Distributed Inference over Large AI Models at the Network Edge**, *2025*
-    * Designed a compression-driven Model-Distributed Inference (MDI) framework to enable execution of large models across heterogeneous edge devices, reducing wireless communication overhead via lightweight pruning and quantization.
-* **Gradient Boosting Decision Trees on Medical Diagnosis**, *2024*, [View Publication](https://arxiv.org/abs/2410.03705)
+* **Per-PRB Radar Detection and Localization in 5G NR Spectrograms**, *Present*
+    * Developed deep-learning-based spectrum-sensing models to localize radar emissions at per-resource-block resolution in 5G NR recordings, demonstrating reliable fine-grained detection under severe class imbalance and low-SNR conditions.
+* **Markovian Experimental Design under Concept Drift**, *Present*
+    * Implemented Kalman-filter-based data selection strategies to combat concept drift in sequential learning settings, demonstrating sustained predictive performance under non-stationary data distributions with provable optimality guarantees.
+* **Communication-Aware Distributed Inference with Compression and Pruning**, *Present*
+    * Developed communication-aware pruning, mapping, and latent-representation compression for distributed inference to cut latency and network overhead across heterogeneous edge devices, achieving up to $26\times$ speedup on Colosseum and Raspberry Pi testbeds with Lyapunov-based delay guarantees.
+* **Gradient Boosting Decision Trees on Medical Diagnosis**, *2024*, [View Publication](https://ieeexplore.ieee.org/abstract/document/11114069)
     * Conducted large-scale empirical analysis of ensemble models to evaluate performance trade-offs against deep learning methods on tabular medical data, showing consistent superiority of GBDTs across multiple benchmarks.
-* **Wireless Radar Classification with Transformers**, *2024*, [View Preprint](https://arxiv.org/abs/2401.04837)
+* **Wireless Radar Classification with Transformers**, *2024*, [View Publication](https://ieeexplore.ieee.org/abstract/document/11114069)
     * Implemented Transformer-based radar signal classifiers with LoRA and conformal prediction to improve robustness under distribution shifts, achieving reliable OOD performance in PyTorch.
 * **Portable RF Signal Sensing System Using SDR**, *2023*, [View Publication](https://ieeexplore.ieee.org/abstract/document/10600750)
     * Implemented a GPU-accelerated SDR-based Electronic Support Measures (ESM) system to address real-time RF signal awareness requirements, enabling efficient detection, measurement, and classification using GNU Radio and XGBoost.

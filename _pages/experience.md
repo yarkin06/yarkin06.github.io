@@ -8,10 +8,14 @@ author_profile: true
 
 * **Northeastern University**, Boston, MA, USA, *2028 (expected)*
     * Research Assistant
-        * Research Labs: DNAL, WIoT, SPIRAL
+        * Research Labs: DNAL, INSI, SPIRAL
+        * Developed communication-aware distributed inference, Markovian experimental design, and 5G NR spectrum-sensing frameworks to address the bandwidth, energy, non-stationarity, and interference challenges of machine learning at the network edge, spanning optimization theory through deployment.
+* **OrthoKinetic Track**, Boston, MA, USA, *2026*
+    * Data Science Intern
+        * Developed machine learning pipelines for sEMG-based neuromuscular monitoring to enable objective assessment of performance, injury risk, and recovery across sports, rehabilitation, clinical, and defense applications.
 * **Neurocess Limited**, London, England, *2023*
     * Data Science / Machine Learning Engineer (Remote)
-        * Built Siamese CNN–Transformer architectures for multivariate sEMG time-series analysis to solve athlete performance monitoring under limited data, achieving similarity-based classification and anomaly detection in PyTorch and Keras.
+        * Built few-shot Siamese CNN–Transformer architectures for multivariate sEMG time-series analysis to solve athlete performance monitoring under limited data, achieving similarity-based classification and anomaly detection across unseen motion patterns in PyTorch and Keras.
 * **KOCLAB, National Magnetic Resonance Research Center (UMRAM)**, Ankara, Turkey, *2022*
     * Undergraduate Researcher
         * Implemented deep learning models based on RNNs and Transformers to address missing data and temporal dependencies in biomedical time-series, producing imputation and forecasting pipelines validated in PyTorch experiments.
