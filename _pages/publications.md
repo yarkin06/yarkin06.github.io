@@ -14,13 +14,17 @@ author_profile: true
 Conferences & Journals
 ======
 
+* **Markovian Experimental Design under Concept Drift**
+  * To be appeared in *NeurIPS*, 2026
+  * Recommended citation: A. Y. Yıldız, L. Su, C. Joe-Wong, E. Yeh, and S. Ioannidis, "Markovian Experimental Design under Concept Drift." Advances in Neural Information Processing Systems 38 (2026).
+
 * **Communication-Aware Model Distributed Inference via Latent Representation Compression**
   * To be appeared in *ACM MobiHoc*, 2026
-  * Recommended citation: P. Gholami, T. T. Davarakis, T. Li, M. Sirera Perell´o, S. Reddy, A. Y. Yıldız, A. Arora, A. Eryilmaz, S. Ioannidis, C. Li, H. Seferoglu, and N. Shroff, “Communication-Aware Model Distributed Inference via Latent Representation Compression.” Proceedings of the Twenty-seventh International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing. 2026.
+  * Recommended citation: P. Gholami, T. T. Davarakis, T. Li, M. Sirera Perell´o, S. Reddy, A. Y. Yıldız, A. Arora, A. Eryilmaz, S. Ioannidis, C. Li, H. Seferoglu, and N. Shroff, "Communication-Aware Model Distributed Inference via Latent Representation Compression." Proceedings of the Twenty-seventh International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing. 2026.
 
 * **T-PRIME: Real-time Deployment of a Transformer-based Protocol Identification for Machine-learning at the Edge** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11614897) [[Code]](https://github.com/genesys-neu/t-prime)
   * Published in *IEEE Transactions on Networking*, 2026.
-  * Recommended citation: M. Belgiovine, J. Groen, M. Sirera, C. Tassie, A. Y. Yıldız, S. Ioannidis, and K. Chowdhury, “T-PRIME: Real-time Deployment of a Transformer-based Protocol Identification for Machine-learning at the Edge.” IEEE Transactions on Networking (2026). <a href="/files/tprime-tnet.bib">Download BibTeX</a>
+  * Recommended citation: M. Belgiovine, J. Groen, M. Sirera, C. Tassie, A. Y. Yıldız, S. Ioannidis, and K. Chowdhury, "T-PRIME: Real-time Deployment of a Transformer-based Protocol Identification for Machine-learning at the Edge." IEEE Transactions on Networking (2026). <a href="/files/tprime-tnet.bib">Download BibTeX</a>
 
 * **Gradient boosting decision trees on medical diagnosis over tabular data** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11114069) [[Code]](https://github.com/yarkin06/TabularGBDT)
   * Published in *IEEE ICAD*, 2025
