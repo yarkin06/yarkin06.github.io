@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* Technical Reviewer: IEEE TMC, AAAI 2027, NeurIPS 2026, ICML 2026 (silver reviewer), AISTATS 2026, IEEE ICAD 2026
+* **Technical Reviewer:** AAAI 2027, NeurIPS 2026 (Top Reviewer), ICML 2026 (Silver Reviewer), AISTATS 2026, IEEE ICAD 2026, IEEE TMC
 * Amazon IET-MSI Program Participant, *2024*
 * Northeastern University SPIRAL Committee Member, *2024*
     * Organized three seminars with participants from Northeastern University and Boston University, MA, USA; and École Polytechnique Fédérale de Lausanne, Switzerland.
