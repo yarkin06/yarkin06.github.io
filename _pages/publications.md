@@ -44,7 +44,7 @@ Preprints
 ======
 
 * **T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge** [[Paper]](https://arxiv.org/abs/2401.04837) [[Code]](https://github.com/genesys-neu/t-prime)
-  * Published in **arxiv, 2024**
+  * Published in **arXiv, 2024**
   * Recommended citation: M. Belgiovine, J. Groen, M. Sirera, C. Tassie, **A. Y. Yıldız**, S. Trudeau, S. Ioannidis, and K. Chowdhury, "T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge." arXiv preprint arXiv:2401.04837 (2024). <a href="/files/tprime.bib">Download BibTeX</a>
 
 * **sEMG motion classification via few-shot learning with applications to sports science** [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22577374)
