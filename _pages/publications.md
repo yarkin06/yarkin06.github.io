@@ -14,12 +14,12 @@ author_profile: true
 Conferences & Journals
 ======
 
-* **Markovian Experimental Design under Concept Drift**
-  * To be appeared in **NeurIPS, 2026**
-  * Recommended citation: **A. Y. Yıldız**, L. Su, C. Joe-Wong, E. Yeh, and S. Ioannidis, "Markovian Experimental Design under Concept Drift." Advances in Neural Information Processing Systems 38 (2026).
+* **Markovian Experimental Design under Concept Drift** [[Paper]](/files/C_MarkovianExperimental_NeurIPS_2026.pdf) [[Code]](https://github.com/neu-spiral/MarkovExp)
+  * To appear in **NeurIPS, 2026**
+  * Recommended citation: **A. Y. Yıldız**, L. Su, C. Joe-Wong, E. Yeh, and S. Ioannidis, "Markovian Experimental Design under Concept Drift." Advances in Neural Information Processing Systems 39 (2026).
 
 * **Communication-Aware Model Distributed Inference via Latent Representation Compression**
-  * To be appeared in **ACM MobiHoc, 2026**
+  * To appear in **ACM MobiHoc, 2026**
   * Recommended citation: P. Gholami, T. T. Davarakis, T. Li, M. Sirera Perelló, S. Reddy, **A. Y. Yıldız**, A. Arora, A. Eryilmaz, S. Ioannidis, C. Li, H. Seferoglu, and N. Shroff, "Communication-Aware Model Distributed Inference via Latent Representation Compression." Proceedings of the Twenty-seventh International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing. 2026.
 
 * **T-PRIME: Real-time Deployment of a Transformer-based Protocol Identification for Machine-learning at the Edge** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11614897) [[Code]](https://github.com/genesys-neu/t-prime)
